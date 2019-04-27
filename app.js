@@ -34,7 +34,7 @@ const init = async () => {
     }
   }
 
-}
+};
 
 init();
 
